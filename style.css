@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   }
+   .conteiner{
+    margin: auto ;
+    margin-top: 150px; 
+    width: 366px;
+    height: 420px;
+    background-color: #FAF4EF;
+  
+    border-radius: 0px 0px 0px 50px;
+   }
+.head1{
+       
+    width: 289px;
+    height: 54px;
+    margin-left: 46.11px;
+    padding-top: 43px;
+    color: rgba(75, 75, 75, 1);
+   }
+.head2{
+   
+   width: 178px;
+   height: 41px;
+   margin-left: 46px;
+   padding-top: 30px;
+   color:rgba(115, 115, 115, 1)
+   
+   }
+.surati{
+   width: 299px ;
+   height: 299px;
+   margin-top: 80px ;
+   margin-left: 33px ;
+ 
+}
